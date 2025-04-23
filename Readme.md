@@ -1,4 +1,4 @@
-# Medicinal Plant Classifier 🌿
+# Medicinal Plant Identifier 🌿
 
 This Flask web app identifies Indian medicinal plants from leaf images using a deep learning model trained on 80+ classes.
 
